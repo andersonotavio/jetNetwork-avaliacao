@@ -2,6 +2,8 @@
 /**
  * Validadores de Formulários - Semantic UI
  */
+
+
 require('../vendors/validators');
 //--------------------[ Correios ]--------------------//
 require('../functions/correios');
